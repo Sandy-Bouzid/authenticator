@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta property="og:title" content="My authentication form">
     <meta property="og:description" content="Create an account, Log in and log out.">
-    <meta property="og:image" content="screenshot-home.png">
+    <meta property="og:image" content="screenshot-signin.png">
     <link rel="stylesheet" href="./css/styles.css">
 
     <title>Authentication form</title>

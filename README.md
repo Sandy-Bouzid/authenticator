@@ -1,5 +1,21 @@
 # My authentication form
 
+Sign in, log in and log out using PHP sessions.
+
+## Screenshots
+
+### Sign in page (Desktop)
+
+<img src="./screenshot-signin.png" alt="screenshot home" style="width:500px;"/>
+
+## Log in page (Mobile)
+
+<img src="./screenshot-login.png" alt="screenshot tasks" style="width:500px;"/>
+
+### Home page (Mobile)
+
+<img src="./screenshot-home.png" alt="screenshot tasks" style="width:500px;"/>
+
 ## Run the project
 
 ### Create a database : 
@@ -28,4 +44,4 @@ define('DB_USER', 'your_username');
 define('DB_PASS', 'your_password');
 ```
 
-## Screenshots
+
