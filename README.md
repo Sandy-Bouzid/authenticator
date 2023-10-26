@@ -10,11 +10,11 @@ Sign in, log in and log out using PHP sessions.
 
 ## Log in page (Mobile)
 
-<img src="./screenshot-login.png" alt="screenshot tasks" style="width:500px;"/>
+<img src="./screenshot-login.png" alt="screenshot tasks" style="width:500px;height:300px;"/>
 
 ### Home page (Mobile)
 
-<img src="./screenshot-home.png" alt="screenshot tasks" style="width:500px;"/>
+<img src="./screenshot-home.png" alt="screenshot tasks" style="width:500px;height:300px;"/>
 
 ## Run the project
 
